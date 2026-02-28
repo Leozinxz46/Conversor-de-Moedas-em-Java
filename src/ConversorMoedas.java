@@ -10,6 +10,7 @@ public class ConversorMoedas {
         System.out.println("Digite o primiero valor em REAL: ");
         double moedaReal = scanner.nextDouble();
 
+        System.out.println("Digite o numero da Moeda dejada: ");
         System.out.println("\n 1 - Dólar \n 2 - Euro \n 3 - Libra \n 4 - Lene\n 5 - Franc ");
         int moedaEscolhida = scanner.nextInt();
 
